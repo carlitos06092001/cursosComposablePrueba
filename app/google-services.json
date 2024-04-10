@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956586344794",
+    "project_id": "cursoscomposableprueba",
+    "storage_bucket": "cursoscomposableprueba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956586344794:android:56aec1eb4c8ac1f1d2f363",
+        "android_client_info": {
+          "package_name": "com.example.cursoscomposableprueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVkl8-oeOX-JWKKAhmFOBrXwq2udW_Sug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
